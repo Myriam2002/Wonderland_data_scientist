@@ -10,13 +10,13 @@ Within these pages, you will find my notes 📝, notebooks 📚, and musings as 
 
 Much like Alice's descent into the rabbit hole, my journey began with a leap into the world of Data Science. I explored the foundations of statistics, probability, and data manipulation, unlocking doors to new dimensions of insights and understanding. With each step, I grew more adept at wrangling data, transforming it into meaningful representations. 📊
 
-<img src="falling_down.gif" width="300">
+<img src="falling_down.gif" width="200">
 
 ## Unraveling the Mysteries of Deep Learning 🔍
 
 As Alice ventured through Wonderland, encountering talking animals and hidden wonders, I delved into the captivating realm of Deep Learning. Neural networks became my magical looking glass, revealing patterns and unveiling the secrets hidden within vast amounts of data. Through the wonder of gradient descent and backpropagation, I trained models that could comprehend images, understand natural language, and even generate artistic masterpieces. 🧠💡
 
-<img src="unreval_mysteries.gif" width="300">
+<img src="unreval_mysteries.gif" width="200">
 
 ## Notes and Notebooks - My Tea Party with Data ☕📓
 
