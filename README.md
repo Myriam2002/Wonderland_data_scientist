@@ -9,7 +9,7 @@ Within these pages, you will find my notes 📝, notebooks 📚, and musings as 
 ## Falling Down the Data Science Rabbit Hole 🕳️
 
 Much like Alice's descent into the rabbit hole, my journey began with a leap into the world of Data Science. I explored the foundations of statistics, probability, and data manipulation, unlocking doors to new dimensions of insights and understanding. With each step, I grew more adept at wrangling data, transforming it into meaningful representations. 📊
-<img src="falling_down.gif" width="300" height="300">
+<img src="falling_down.gif" width="300">
 
 ## Unraveling the Mysteries of Deep Learning 🔍
 
