@@ -1,6 +1,7 @@
 # 🎩 Alice's Adventures in Data Science Wonderland 🐇
 
 Welcome to my whimsical documentation of my journey through the magical realms of Data Science and Deep Learning. Just like Alice, I've embarked on an enchanting adventure filled with curiosity, discovery, and the pursuit of knowledge. 🌟
+### **Notion for my notes: ** https://east-practice-05b.notion.site/Wonderland-Data-Scientist-334c9ad688b347728481ff41d57049a6?pvs=4 
 
 ## About this Documentation 📜
 
